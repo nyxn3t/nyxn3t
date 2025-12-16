@@ -8,8 +8,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # 💫 About Me:
 🔭 I’m currently working on<br>Building my homelab (Proxmox, Coolify, Jellyfin, Pi-hole) and growing my IT business PC Maatje.<br><br>🤝 I’m looking to collaborate on<br>Small IT tools, automation projects, self-hosted utilities, or cool webapp ideas.<br><br>👐 I’m looking for help with<br>Advanced networking, ethical hacking, and scaling self-hosted services securely.<br><br>🌱 I’m currently learning<br>Ethical hacking, penetration testing, MD-102, and improving my automation skills.<br><br>💬 Ask me about<br>Homelabs, domain hosting, Coolify setups, DNS, Proxmox, or building budget-friendly IT solutions.
 
