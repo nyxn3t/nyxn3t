@@ -6,14 +6,6 @@
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+Nyxn3t's+Lab+%F0%9F%92%BB;Pentesting+%7C+Homelab+%7C+Automation;Building+the+Future%2C+One+Server+at+a+Time" alt="Typing SVG" />
 
-<!-- Terminal-style Quote -->
-```bash
-$ whoami
-> Ethical Hacker | Homelab Architect | IT Entrepreneur
-$ cat mission.txt
-> Securing networks, automating everything, self-hosting freedom
-```
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
