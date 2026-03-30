@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Matrix-style Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=NYXN3T&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Hacker%20•%20Homelab%20Enthusiast%20•%20IT%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc00ff,100:2d0047&height=200&section=header&text=NYXN3T&fontSize=80&fontColor=cc00ff&animation=twinkling&fontAlignY=35&desc=Hacker%20•%20Homelab%20Enthusiast%20•%20IT%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+Nyxn3t's+Lab+%F0%9F%92%BB;Pentesting+%7C+Homelab+%7C+Automation;Building+the+Future%2C+One+Server+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CC00FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+Nyxn3t's+Lab+%F0%9F%92%BB;Pentesting+%7C+Homelab+%7C+Automation;Building+the+Future%2C+One+Server+at+a+Time" alt="Typing SVG" />
 
 </div>
 
@@ -33,7 +33,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Nyxn3t&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0047,100:cc00ff&height=120&section=footer" width="100%"/>
 
 </div>
 
