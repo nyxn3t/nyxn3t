@@ -25,7 +25,6 @@ Rust is new to me, so the code has a lot of comments that explain what's going o
 
 ## Other things I've made
 
-- **[TankRadar](https://github.com/nyxn3t/tankprijzen-vergelijker)** shows live petrol, diesel and LPG prices in the Netherlands, Germany and Belgium. It's a web app you can install on your phone (in Dutch).
 - **[GTA Radio](https://github.com/nyxn3t/GTA-Car-Radio)** is a web radio player with all 35 stations from GTA V, Vice City and San Andreas.
 
 ## Homelab and work
